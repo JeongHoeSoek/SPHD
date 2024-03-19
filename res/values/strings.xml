@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SOS Alert</string>
+    <string name="alarm">알람</string>
+    <string name="heart">심장</string>
+    <string name="phone">전화</string>
+    <string name="SMS">문자</string>
+
+    <string name="some_id2">
+    알람이 끝난 후 저장된 전화번호로 위치 정보와 함께 위험 메시지가 일괄 전송됩니다.
+    </string>
+</resources>
